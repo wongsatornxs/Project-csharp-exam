@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wongs\\source\\repos\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\controllers\\calpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\calpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\controllers\\model\\taskinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\model\\taskinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\controllers\\model\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\model\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\controllers\\model\\changerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\model\\changerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|c:\\users\\wongs\\source\\repos\\exam\\exam\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257367C-67FB-43A1-9B4E-0225531AC8F4}|Exam\\Exam.csproj|solutionrelative:exam\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskInput.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\TaskInput.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\Model\\TaskInput.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\TaskInput.cs",
+              "RelativeToolTip": "Exam\\Controllers\\Model\\TaskInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:03:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\ChangeRequest.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\Model\\ChangeRequest.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\ChangeRequest.cs",
+              "RelativeToolTip": "Exam\\Controllers\\Model\\ChangeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:34:05.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Exam\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\WeatherForecast.cs",
+              "RelativeToolTip": "Exam\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:12:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:10:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalPromotionController.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\CalPromotionController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\CalPromotionController.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\CalPromotionController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\CalPromotionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:06:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\DiscountCalculator.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\Model\\DiscountCalculator.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\Model\\DiscountCalculator.cs",
+              "RelativeToolTip": "Exam\\Controllers\\Model\\DiscountCalculator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:53:49.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\wongs\\source\\repos\\Exam\\Exam\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:52:50.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
